@@ -27,7 +27,7 @@ export function Portfolio(){
     
     return (
         <section id="portfolio">
-            <h2>Selected projects</h2>
+            <h2>Some cool shots</h2>
            
             <div id='' className='portfolioCont'>
                 <h2>portrait</h2>

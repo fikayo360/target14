@@ -17,7 +17,7 @@ export function Hero(){
         <section id="hero">
            { navActive? (<div id='navMobile' onClick={toggleMobileNav} ref={ref} className={`${inView?'animate__animated animate__fadeInDown animate__slow ':''}`}>
                 <header>
-                    <h1>Sarah</h1>
+                    <h1>Malshan</h1>
                     <img src='./close.png'/>
                 </header>
                 <ul id='navMobileList'>
@@ -39,7 +39,7 @@ export function Hero(){
                             <li><a href='#footer'>footer</a></li>
                         </ul>
 
-                    <h1 id='navCenter'> Sarah </h1>
+                    <h1 id='navCenter'> Malshan </h1>
 
                     <div id='socialIcons'>
                         <div className='socialIcon'><img src='./facebook.png' /></div>
@@ -52,7 +52,7 @@ export function Hero(){
             </nav>
 
             <div id='heroOther'>
-                <h5 id='heroTxt' ref={ref} className={`${inView?'animate__animated animate__rubberBand animate__slow':''}`}> Sarah Meeko photography </h5>
+                <h5 id='heroTxt' ref={ref} className={`${inView?'animate__animated animate__rubberBand animate__slow':''}`}> Malshan Pabasara photography </h5>
                 <div id='heroOtherBottom'>
                 <p>i am a photographer with a passion for capturing genuine moments in a creative way.
                     Explore my galllery, lets create something beautiful together
