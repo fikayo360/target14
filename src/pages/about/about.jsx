@@ -5,8 +5,7 @@ export function About(){
         <section id='about'>
                 <div className='aboutItem' id="aboutItem1">
                         <p>
-                           hi iam Stephen,
-                           here are some services i offer...
+                           hi iam Stephen...
                         </p>
                 </div>
 
