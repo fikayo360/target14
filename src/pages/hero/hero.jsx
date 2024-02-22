@@ -17,7 +17,7 @@ export function Hero(){
         <section id="hero">
            { navActive? (<div id='navMobile' onClick={toggleMobileNav} ref={ref} className={`${inView?'animate__animated animate__fadeInDown animate__slow ':''}`}>
                 <header>
-                    <h1>Malshan</h1>
+                    <h1>Stephen</h1>
                     <img src='./close.png'/>
                 </header>
                 <ul id='navMobileList'>
