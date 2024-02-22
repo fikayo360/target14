@@ -41,6 +41,16 @@ export function Portfolio(){
                 <div className='images'>
                     <img src='https://images.squarespace-cdn.com/content/v1/56dfd5cc9f7266ed7f04b64d/1585743025040-GY3HNPD08I794TTR7O1M/image-asset.jpeg'/>
                 </div>
+
+                <div className='images'>
+                    <img src='https://blog.depositphotos.com/wp-content/uploads/2022/05/Creative-Portrait-Photography-Ideas-12.jpg.webp'/>
+                </div>
+                <div className='images'>
+                    <img src='https://i.pinimg.com/736x/c0/e9/56/c0e95669e7070eec96e4067c414a83ff.jpg'/>
+                </div>
+                <div className='images'>
+                    <img src='https://www.thephotoargus.com/wp-content/uploads/2022/02/creative-portrait-photography-light-painting-tutorial.jpg'/>
+                </div>
                 </div>
             </div>
             
@@ -56,6 +66,34 @@ export function Portfolio(){
                 </div>
                 <div className='images'>
                     <img src='https://thewildlifecollective.com/wp-content/uploads/2020/11/D30I1244-v2-copy-16x9-1-scaled.jpg'/>
+                </div>
+
+                <div className='images'>
+                    <img src='https://video.cgtn.com/news/2021-04-01/2021-International-Bird-Loving-Day-Love-birds-love-nature-Z6xLk7Y9Es/video/35f150d1c5b6460cb2a6790d31db05e3/35f150d1c5b6460cb2a6790d31db05e3.jpeg'/>
+                </div>
+                <div className='images'>
+                    <img src='https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/b/l/Blue-jay-Matt-Williams.jpg?crop=0%2C11%2C4000%2C3000&wid=640&hei=480&scl=6.25'/>
+                </div>
+                <div className='images'>
+                    <img src='https://cff2.earth.com/uploads/2019/09/15235043/Listening-To-Birds-In-Nature-Found-To-Be-More-Calming-Than-Meditation-App-Listening-to-birds-in-nature-found-to-be-more-calming-than-a-meditation-app-.jpg'/>
+                </div>
+                <div className='images'>
+                    <img src='https://www.intrepidtravel.com/adventures/wp-content/uploads/2016/04/arctic-wildlife-emma.jpg'/>
+                </div>
+                <div className='images'>
+                    <img src='https://www.activewild.com/wp-content/uploads/2019/02/howler-monkey-rainforest-animal-1024x682.jpg'/>
+                </div>
+                <div className='images'>
+                    <img src='https://a-z-animals.com/media/2021/05/Amazing-Rainforest-Animal-header.jpg'/>
+                </div>
+                <div className='images'>
+                    <img src='https://photos.demandstudios.com/getty/article/81/100/90267376.jpg'/>
+                </div>
+                <div className='images'>
+                    <img src='https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/capybara-4254528-1920_ver_1.jpg'/>
+                </div>
+                <div className='images'>
+                    <img src='https://i.natgeofe.com/k/43d56c9f-3d35-400c-90f9-b93298bd1aab/ww-rain-forest-animals-tarsier_square.jpg'/>
                 </div>
             </div>
             </div>

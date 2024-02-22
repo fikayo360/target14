@@ -6,7 +6,7 @@ export function Footer(){
     return (
         <section id='footer' >
          
-           <h6 id='footerName' ref={ref} className={`${inView?'animate__animated animate__fadeInDown animate__slow':''}`}>Malshan Pabasara</h6>
+           <h6 id='footerName' ref={ref} className={`${inView?'animate__animated animate__fadeInDown animate__slow':''}`}>Stephen Conrad</h6>
             
             <div id="footerBot">
                 <div className='footerItems'>

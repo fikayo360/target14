@@ -16,7 +16,7 @@ export function Testimonials(){
                 </div>
 
                     <p className='testiDown'>
-                    Working with Malshan was an absolute delight! Their creative vision brought my ideas to life, and the results were beyond my expectations. 
+                    Working with Stephen was an absolute delight! Their creative vision brought my ideas to life, and the results were beyond my expectations. 
                     The attention to detail and unique perspective truly set them apart. I highly recommend their services to anyone seeking memorable and artistic photographs.
                     </p>
             </div>
@@ -31,7 +31,7 @@ export function Testimonials(){
                 </div>
             </div>
 
-                <p className='testiDown'>Incredible talent and a true professional! Malshan has an exceptional ability to capture the essence of a moment.
+                <p className='testiDown'>Incredible talent and a true professional! Stephen has an exceptional ability to capture the essence of a moment.
                 </p>
 
                 <p className='testiDown'>Every photo tells a story, and the creativity behind each shot is truly impressive. 
@@ -49,7 +49,7 @@ export function Testimonials(){
                 </div>
             </div>
 
-                <p className='testiDown'>Collaborating with sarah was an absolute revelation in the world of visual storytelling. From the initial consultation to the final delivery, every step of the process was infused with an unparalleled level of creativity and professionalism.
+                <p className='testiDown'>Collaborating with stephen was an absolute revelation in the world of visual storytelling. From the initial consultation to the final delivery, every step of the process was infused with an unparalleled level of creativity and professionalism.
                  Their ability to weave narratives through images is truly extraordinary.
                 </p>
 
@@ -80,7 +80,7 @@ export function Testimonials(){
                 </div>
             </div>
 
-                <p className='testiDown'>A master of their craft! Malshan has an extraordinary eye for composition and lighting. 
+                <p className='testiDown'>A master of their craft! Stephen has an extraordinary eye for composition and lighting. 
                 The photos they took for our project were nothing short of amazing. 
                 </p>
 
@@ -99,7 +99,7 @@ export function Testimonials(){
                 </div>
             </div>
 
-                <p className='testiDown'>I can't thank this photographer enough for the outstanding photos!
+                <p className='testiDown'>I can't thank stephen enough for the outstanding photos!
                  Their creative approach added a magical touch to our family portraits. The session was not only enjoyable but resulted in images that 
                  perfectly captured the spirit of our family. 
                 I highly recommend this artist for anyone seeking personalized and imaginative photography
@@ -116,7 +116,7 @@ export function Testimonials(){
                     </div>
                 </div>
 
-                    <p className='testiDown'>An absolute genius with a camera! sarah has an incredible knack for turning everyday moments into breathtaking art.
+                    <p className='testiDown'>An absolute genius with a camera! Stephen has an incredible knack for turning everyday moments into breathtaking art.
                     </p>
 
                     <p className='testiDown'>The passion and dedication they bring to their work are evident in every shot. Our wedding photos are nothing short of spectacular,
